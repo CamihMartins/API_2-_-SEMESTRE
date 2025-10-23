@@ -1,4 +1,4 @@
-**Aprendizado por Projeto Integrado (API) - Template**
+**APRENDIZADO POR PREOJETO INTEGRADO (API)- Template**
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub".
 
